@@ -8,7 +8,8 @@
 ##### -  사용 기술  :  HTML5, Javascript, css, axios, Thymeleaf, spring security
 ##### -  맡은 역할  : 프론트엔드 - 관리자(Admin) 페이지 담당
 
-**구현 기능**
+### 구현 기능
+
 > 관리자 (Admin)
 + 메인페이지 : 각 카테고리별 미리보기 및 그래프 구현
 
