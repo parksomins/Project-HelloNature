@@ -199,6 +199,9 @@
 
 ## 프로젝트 시연영상
 
+#### 회원가입/
+
+
 #### 상품 등록
 ![admin-story-board-main-Chrome-2022-02-16-18-06-35](https://user-images.githubusercontent.com/86812172/154232337-9c749be0-0994-459d-8502-d15622db2f23.gif)
 
