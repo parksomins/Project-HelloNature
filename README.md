@@ -212,6 +212,9 @@
 #### 카테고리 등록
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/86812090/154260722-88e17a82-c79f-4d1c-b8a1-a98b4b0e56a8.gif)
 
+#### 마이페이지 - 더그린배송 신청
+![더그린배송-Chrome-2022-02-17-19-08-07](https://user-images.githubusercontent.com/86812172/154454217-c34971ab-08c0-4c9b-af78-27a4762b6f36.gif)
+
 ## 프로젝트를 마치며...
 
 느낀점
