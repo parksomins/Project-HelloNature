@@ -217,7 +217,7 @@
 ![회원-장바구니-Chrome-2022-02-17-21-25-20](https://user-images.githubusercontent.com/86812172/154617584-268c8d6e-5e44-4dea-964b-b3b99ff046c9.gif)
 
 #### 매거진 - 레시피 등록
-
+![admin-story-board-main-Chrome-2022-02-18-13-46-15](https://user-images.githubusercontent.com/86812172/154619797-02c14ce0-dcbf-4d40-b0e5-b44c2656166a.gif)
 
 #### 마이페이지 - 더그린배송 신청
 ![더그린배송-Chrome-2022-02-17-19-08-07](https://user-images.githubusercontent.com/86812172/154454217-c34971ab-08c0-4c9b-af78-27a4762b6f36.gif)
