@@ -211,7 +211,7 @@
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/86812090/154260722-88e17a82-c79f-4d1c-b8a1-a98b4b0e56a8.gif)
 
 #### 장바구니 담기
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/86812172/154614445-3d891379-08cc-4a1c-8802-a6b851690085.gif)
+![아이템-리스트-Chrome-2022-02-17-21-14-13](https://user-images.githubusercontent.com/86812172/154617112-43c48cdb-423e-48d0-a4bd-333a53027d30.gif)
 
 #### 마이페이지 - 더그린배송 신청
 ![더그린배송-Chrome-2022-02-17-19-08-07](https://user-images.githubusercontent.com/86812172/154454217-c34971ab-08c0-4c9b-af78-27a4762b6f36.gif)
