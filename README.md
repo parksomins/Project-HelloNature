@@ -24,7 +24,7 @@
 6. 오류 점검 및 최종 코드 수정 <br/>
 7. 발표 <br/>
   
-## 프로젝트 활용기술
+## 활용기술
 
 `frontend`
 	<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -42,11 +42,11 @@
 `database`
 	<img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white"/>
 
-## 프로젝트 데이터 관계도
+## 데이터 관계도
   
 ![dataModel](https://user-images.githubusercontent.com/86811852/152217508-4a009921-4a62-4fd8-ab5e-1d25deb37146.png)
   
-## 😉프로젝트 담당 및 역할😉
+## 😉담당 및 역할😉
   
 ### frontend
 + **기획서 발표 담당**
@@ -54,7 +54,7 @@
 + **관리자 페이지 제작**
 + **마이페이지 부분 어시스트** 
     
-## 프로젝트 구현기능
+## 구현기능
   
 `ADMIN`
 1. 전체 상품 관리
